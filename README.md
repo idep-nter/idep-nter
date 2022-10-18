@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there!
 
-- 🔭 I’m currently working on Vue.js project Chatty!
-- 🌱 I’m currently learning React!
+- 🔭 I’m currently working on... Vue.js project Chatty!
+- 🌱 I’m currently learning... React!
